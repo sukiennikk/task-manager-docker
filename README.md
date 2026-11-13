@@ -52,13 +52,13 @@ Pozostałe pliki pozostają nieużyte, potrzebne jednak do dalszej rozbudowy/pod
 Rozdzielenie aplikacji na frontend i backend. Uruchomienie w dwóch kontererach (wymaganie na ocenę 4.0).
 
 Co ulega zmianie?
-Frontend:
-- HTML — struktura strony;
-- CSS — wygląd;
-- JavaScript — obsługa formularzy i komunikacja z API;
-- Nginx — serwowanie strony i przekazywanie żądań API.
-Backend:
-- Flask — API;
+###### Frontend:
+- HTML - struktura strony;
+- CSS - wygląd;
+- JavaScript —- obsługa formularzy i komunikacja z API;
+- Nginx - serwowanie strony i przekazywanie żądań API.
+###### Backend:
+- Flask - API;
 - obsługa zadań;
 - zwracanie danych w formacie JSON.
 
