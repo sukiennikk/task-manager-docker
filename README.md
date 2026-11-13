@@ -1,7 +1,7 @@
 PODZIAŁ ZADANIA NA ETAPY
 
 
-#1
+# 1
 Stworzenie prostej aplikacji Flask.
 
 Aplikacja powinna:
@@ -12,14 +12,15 @@ Aplikacja powinna:
 
 Cel: uruchomienie prostej aplikacji w jednym koneterze (wymaganie na 3.0).
 
-Podział na osoby: 
-##1 KT
+Podział na osoby:
+
+## 1 KT
 - stworzyć app.py
 - implementacja prostej aplikacji Flask (w app.py)
 - przygotować requirements.txt
 - stworzyć Dockerfile backendu
 
-##2 KS
+## 2 KS
 - zaprojektowanie wyglądu prostej strony HTML
 - CSS
 - dodanie formularza dodawania zadania
